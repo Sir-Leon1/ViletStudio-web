@@ -38,3 +38,56 @@
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
 }
 
+@media (min-width: 300px) {
+  .col-md-4 p {
+    font-size: 9px;
+  }
+}
+
+@media (min-width: 500px) {
+  .col-md-4 p {
+    font-size: 19px;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-md-4 h4 {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 500px) {
+  .col-md-4 h4 {
+    font-size: 26px;
+  }
+}
+
+.blurred-background {
+  position: relative;
+  padding-top: 50px;
+  overflow: hidden;
+}
+
+.blurred-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("../../assets/img/DSC_7421.jpg") center / cover no-repeat;
+  filter: blur(4px);
+  z-index: -1;
+}
+
+.blurred-background::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5));
+  z-index: -1;
+}
+
