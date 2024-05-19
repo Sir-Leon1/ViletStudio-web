@@ -113,3 +113,9 @@
   margin-bottom: 0;
 }
 
+@media (min-width: 992px) {
+  .fa-stack.fa-4x {
+    height: 400px;
+  }
+}
+
