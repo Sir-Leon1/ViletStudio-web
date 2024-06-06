@@ -1,2 +1,2 @@
 # ViletStudio-web
-A simple website project for  Vilet Studio
+A simple website project for  Vilet Studio (Photography and videography company)
