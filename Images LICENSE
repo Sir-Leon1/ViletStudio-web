@@ -1,0 +1,28 @@
+All Rights Reserved
+
+Copyright (c) 2024 Vilet Studio
+
+All photographs and images contained within this repository ("the Content") are the exclusive property of Vilet Studio. Unauthorized use, reproduction, modification, or distribution of the Content, in whole or in part, is strictly prohibited without explicit written permission from Vilet Studio.
+
+### Usage Requirements
+
+This repository serves as a template for creating a photography website. All placeholder images within this repository are for demonstration purposes only. You are required to replace all placeholder images with your own images before using this template for your website.
+
+You are not permitted to:
+- Use the placeholder images for any purpose other than demonstration.
+- Use any original images that may have been part of this repository without explicit permission.
+- Redistribute the Content in any form or medium.
+- Alter, transform, or build upon the Content without replacing the placeholder images with your own.
+
+### Steps to Replace Images
+
+1. **Locate Placeholder Images**: All placeholder images are stored in the `photos/` directory.
+2. **Replace with Your Images**: Replace each placeholder image with your own images. Ensure that your image filenames match the placeholder filenames or update the HTML/CSS files accordingly.
+3. **Update References**: If you change the filenames or add new images, ensure that you update the references in your HTML/CSS files to reflect these changes.
+
+Permission for use of the Content can be requested by contacting Vilet Studio. Written permission must be obtained prior to any use of the Content.
+
+The Content is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Content or the use or other dealings in the Content.
+
+For further information or requests, please contact:
+Vilet Studio
